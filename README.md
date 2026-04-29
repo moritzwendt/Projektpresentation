@@ -43,39 +43,3 @@ The `assets` folder contains supplementary files:
 *   `assets/images/`: Contains all visual assets.
 *   `assets/script/script.js`: Custom JavaScript for interactive features.
 *   `assets/style/style.css`: Styling for the presentation.
-
-## Contributing 🤝
-
-We welcome contributions to improve this project presentation. If you have suggestions or find any issues, please feel free to:
-
-1.  Fork the repository.
-2.  Create a new branch (`git checkout -b feature/your-feature-name`).
-3.  Make your changes.
-4.  Commit your changes (`git commit -m 'Add some feature'`).
-5.  Push to the branch (`git push origin feature/your-feature-name`).
-6.  Open a Pull Request.
-
-Alternatively, you can open an issue to discuss potential improvements or report bugs.
-
-## License 📜
-
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
-
-```
-Apache License
-Version 2.0, January 2004
-http://www.apache.org/licenses/
-
-TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
-
-1. Definitions.
-...
-```
-
----
-
-<p align="center">
-  <a href="https://readmeforge.app?utm_source=badge">
-    <img src="https://readmeforge.app/badge.svg" alt="Made with ReadmeForge" height="20">
-  </a>
-</p>
