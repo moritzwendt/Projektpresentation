@@ -2,10 +2,6 @@
 
 Projektpräsentation Realschule
 
-## Badges 🌟
-
-[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-
 ## Description 📝
 
 This repository contains the project presentation for Realschule. It showcases various aspects of a project, likely related to agriculture or food production, presented in an educational context.
